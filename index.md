@@ -3,12 +3,14 @@ Software Workouts is a bi-weekly community-driven seminar hosted at the [Univers
 
 ### Schedule
 We meet every other Monday at noon in room 5106 of the UBC Earth Sciences Building
-##### Upcoming Workouts
+#### Upcoming Workouts
+
 Date | Title | Presenter(s)
 ---- | ----- | ---------
 
 
-##### Past Workouts
+#### Past Workouts
+
 Date | Title | Presenter(s)
 ---- | ----- | ---------
 12 Dec 2016 | **Setting up modules** <br /> [Notebook](https://nbviewer.jupyter.org/github/bmooremaley/software-workouts/blob/master/tutorials/Modules2_Notebook.ipynb) \| [modules2_files.tar.gz](https://github.com/bmooremaley/software-workouts/raw/master/support_files/modules2_files.tar.gz) | Susan
