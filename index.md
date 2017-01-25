@@ -8,7 +8,7 @@ We meet every other Monday at noon in room 5106 of the UBC Earth Sciences Buildi
 
 Date | Title | Presenter(s)
 ---- | ----- | ------------
-
+     |       |
 
 #### Past Workouts
 
