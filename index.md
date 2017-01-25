@@ -6,12 +6,12 @@ We meet every other Monday at noon in room 5106 of the UBC Earth Sciences Buildi
 ##### Upcoming Workouts
 Date | Title | Presenter(s)
 ---- | ----- | ---------
-28 Nov 2016 | *open* | 
-12 Dec 2016 | **Setting up modules** | Susan
+
 
 ##### Past Workouts
 Date | Title | Presenter(s)
 ---- | ----- | ---------
+12 Dec 2016 | **Setting up modules** <br /> [Notebook](https://nbviewer.jupyter.org/github/bmooremaley/software-workouts/blob/master/tutorials/Modules2_Notebook.ipynb) \| [modules2_files.tar.gz](https://github.com/bmooremaley/software-workouts/raw/master/support_files/modules2_files.tar.gz) | Susan
 14 Nov 2016 | **Sphinx and Read the Docs** <br /> [Notebook](http://nbviewer.jupyter.org/urls/www.eoas.ubc.ca/~dlatorne/swc/workouts/14nov16-sphinx-rtd-autodoc/Sphinx-Readthedocs-Autodoc.ipynb) \| [sphinx-rtd-autodoc.zip](https://github.com/bmooremaley/software-workouts/raw/master/support_files/sphinx-rtd-autodoc.zip) | Doug
 31 Oct 2016 | **Pandas and SQL** <br /> [Notebook](https://nbviewer.jupyter.org/github/bmooremaley/software-workouts/blob/master/tutorials/SWCPandasSQL.ipynb) \| [pandas_SQL.tar.gz](https://github.com/bmooremaley/software-workouts/raw/master/support_files/pandas_SQL.tar.gz) | Elise
 17 Oct 2016 | **Making publication-quality figures** <br /> [Matplotlib notebook](https://nbviewer.jupyter.org/github/bmooremaley/software-workouts/blob/master/tutorials/pub_quality_figures.ipynb) \| [Seaborn notebook](http://nbviewer.jupyter.org/urls/bitbucket.org/nsoontiens/swc/raw/tip/seaborn/Seaborn%20for%20great%20plots.ipynb) | Ben and Nancy
