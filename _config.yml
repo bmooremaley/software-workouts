@@ -1,0 +1,8 @@
+title: Software Workouts
+description: A UBC-based scientific software development community
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
