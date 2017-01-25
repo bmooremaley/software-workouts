@@ -5,8 +5,8 @@ Software Workouts is a bi-weekly community-driven seminar hosted at the [Univers
 We meet every other Monday at noon in room 5106 of the UBC Earth Sciences Building
 #### Upcoming Workouts
 
-Date | Title | Presenter(s)
----- | ----- | ---------
+| Date | Title | Presenter(s) |
+|:-----|:-----:|:------------:|
 
 
 #### Past Workouts
