@@ -3,7 +3,6 @@ description: A UBC-based scientific software development community
 google_analytics: 
 show_downloads: true
 theme: jekyll-theme-slate
-markdown: kramdown
 
 gems:
   - jekyll-mentions
